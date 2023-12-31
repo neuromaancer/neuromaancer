@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alafate</h1>
 <h3 align="center">A dialogue researcher.</h3>
 
-- 🔭 I’m currently working on **my PhD thesis! (will defense in Dec.)**
+- 🔭 I have finished my PhD! I am Dr. Alafate now!**
 
 - 🌱 I’m currently learning **THE rust! "rusting" everything now!**
 
