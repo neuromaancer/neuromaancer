@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alafate</h1>
-<h3 align="center">A dialogue researcher.</h3>
-
-- 🔭 I have finished my PhD! I am Dr. Alafate now!**
 
 - 🌱 I’m currently learning **THE rust! "rusting" everything now!**
-
-- 👯 I’m looking to collaborate on **different LLM projects, maybe AI agent especially.**
-
-- 🤝 I’m current looking for **research position!**
 
 - 💬 Ask me about **dialogue, LLM, NLP, chess, maybe not life...**
 
